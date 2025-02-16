@@ -1,0 +1,7 @@
+{
+  "name": "get-location",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
